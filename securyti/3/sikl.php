@@ -1,0 +1,19 @@
+<?php
+public function f(){
+$mas=array(array(2,8),array(9,9),array(2,7));
+ $mas5=array();
+$b=0;
+for($n=0;$n<count($mas);$n++)
+{
+    if($mas[$n][0]){
+    $mas5[$b]=$mas[$n][0];
+    }
+    if($mas[$n][1]){
+    $mas5[$b+1]=$mas[$n][1];
+    }
+    $b=$b+2;
+}
+print_r($mas5);
+}
+f(dfsdfs);
+?>

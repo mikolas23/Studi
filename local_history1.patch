@@ -1,0 +1,15 @@
+Index: 2/1.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 2/1.php	(revision )
++++ 2/1.php	(revision )
+@@ -69,5 +69,5 @@
+ 
+ suma_binar();
+ //echo shifr_znachena();
+-
++/**/
+ ?>
+\ No newline at end of file
